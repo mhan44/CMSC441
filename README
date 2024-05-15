@@ -1,4 +1,5 @@
-Paper 1, Part A - Insertion sort vs Quicksort
-Paper 1, Part B - Find the max value of a sorted array by comparing adjacent elements.
-Paper 2, Part A - Minimal change vs Johnson Trotter permutation generation. 
-Paper 2, Part B - Bit String vs Gray Code powerset generation.  
+Paper 1, Part A - Insertion sort vs Quicksort.
+Paper 1, Part B - Find the max value of a numerical array by comparing adjacent elements, and appending greater elements to a new array,
+                  until a final comparison is made.
+Paper 2, Part A - Minimal change algorithm vs Johnson Trotter algorithm, for generating all possible permutations of a set. 
+Paper 2, Part B - Bit String algorithm vs Gray Code algorithm, for generating a powerset of a set.  
